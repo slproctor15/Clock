@@ -1,0 +1,21 @@
+
+body {
+    background-color: rgb(25,105,147);
+	
+	text-align: center;
+}
+
+
+h1 {
+	font-size: 100px;
+    text-align:center;
+	color: rgb(134,178,69);
+	font-family: "Courier New";
+}
+
+p {
+    text-align:center;
+	font-size: 70px;
+	color: rgb(255,215,0);
+	font-family: "Courier New";
+}
