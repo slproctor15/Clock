@@ -19,3 +19,7 @@ function checkTime(i) {
     }
     return i;
 }
+
+function getLove(){
+	alert("I <3 Mr. Ettlin. Please give Sabrina Proctor an A"); 
+}
